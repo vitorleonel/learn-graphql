@@ -1,0 +1,9 @@
+{
+  "name": "learn-graphql",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:vitorleonel/learn-graphql.git",
+  "author": "Vitor Leonel <falecom@vitorleonel.com>",
+  "license": "MIT",
+  "private": true
+}
